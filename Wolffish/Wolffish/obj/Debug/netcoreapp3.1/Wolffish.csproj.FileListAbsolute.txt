@@ -1,0 +1,13 @@
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\obj\Debug\netcoreapp3.1\Wolffish.csprojAssemblyReference.cache
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\obj\Debug\netcoreapp3.1\Wolffish.AssemblyInfoInputs.cache
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\obj\Debug\netcoreapp3.1\Wolffish.AssemblyInfo.cs
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\obj\Debug\netcoreapp3.1\Wolffish.csproj.CoreCompileInputs.cache
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\bin\Debug\netcoreapp3.1\Wolffish.exe
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\bin\Debug\netcoreapp3.1\Wolffish.deps.json
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\bin\Debug\netcoreapp3.1\Wolffish.runtimeconfig.json
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\bin\Debug\netcoreapp3.1\Wolffish.runtimeconfig.dev.json
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\bin\Debug\netcoreapp3.1\Wolffish.dll
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\bin\Debug\netcoreapp3.1\Wolffish.pdb
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\obj\Debug\netcoreapp3.1\Wolffish.dll
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\obj\Debug\netcoreapp3.1\Wolffish.pdb
+C:\Users\Fraser\source\repos\Wolffish\Wolffish\obj\Debug\netcoreapp3.1\Wolffish.genruntimeconfig.cache
